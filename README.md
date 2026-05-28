@@ -1,25 +1,32 @@
 # COVID-19 Data Exploration using SQL
 
-## Project Overview
-This project analyzes global COVID-19 data using SQL. It focuses on infection rates, death counts, and vaccination trends.
+# Project Overview
+This project analyzes global COVID-19 data using SQL Server. It explores infection rates, death percentages, and vaccination progress across different countries and time periods.
 
-## Skills Used
-- SQL Server
+# Tools Used
+- SQL Server Management Studio (SSMS)
+- SQL
+
+# Skills Demonstrated
 - Joins
-- CTEs
-- Temp Tables
+- Common Table Expressions (CTEs)
+- Temporary Tables
 - Aggregate Functions
 - Window Functions
+- Data Exploration
+- Data Analysis
 
-## Key Insights
+# Key Insights
 - Countries with the highest infection rates
 - Countries with the highest death counts
-- Global COVID trends over time
-- Vaccination progress analysis
+- Global COVID-19 trends over time
+- Vaccination progress analysis using rolling totals
 
-## Dataset
-COVID-19 public dataset (deaths & vaccinations)
+#  Purpose of Project
+This project was built to practice real-world SQL data analysis techniques and strengthen data analyst skills using a public health dataset.
 
-## Tools
-- SQL Server Management Studio (SSMS)# covid-sql-data-exploration
-SQL-based exploratory data analysis project using COVID-19 datasets.
+# Dataset
+COVID-19 public dataset containing global deaths and vaccination records.
+
+
+ This is an exploratory data analysis project for portfolio purposes..
